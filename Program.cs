@@ -1,4 +1,4 @@
-﻿using ExemploEmpresa.Enums;
+﻿using ExemploEmpresa.Entities;
 using System;
 using System.Collections.Generic;
 

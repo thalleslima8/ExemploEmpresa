@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExemploEmpresa.Enums {
+namespace ExemploEmpresa.Entities {
     class Employee {
         public string Name { get;private set; }
         public int Hours { get; set; }

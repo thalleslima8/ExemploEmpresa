@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExemploEmpresa.Enums {
+namespace ExemploEmpresa.Entities {
     class OutsourcedEmployee : Employee {
 
         public double AdditionalCharge { get; set; }
